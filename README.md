@@ -1,10 +1,14 @@
 # Simon Game 🎮
 This is an interactive Simon game built with JavaScript, jQuery, HTML, and CSS.
 
+## 🔗 Live Demo
+🚀 **Try it here:** [Simon Game Live](https://minyoungkim525-dev.github.io/simon-game/)
+
 ## 🚀 Features
 - Responsive design
-- Sound effects
+- Sound effects 🔊
 - Randomized sequence generation
+- Interactive animations
 
 ## 🎥 Demo Video
 📌 **Click the screenshot below to watch the demo:**
