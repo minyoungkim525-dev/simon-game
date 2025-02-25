@@ -7,7 +7,8 @@ This is an interactive Simon game built with JavaScript, jQuery, HTML, and CSS.
 - Randomized sequence generation
 
 ## 📷 Screenshots
-![Game Screenshot](screenshots/screenshot.png)
+## 🎥 Demo Video
+[![Watch the Demo](screenshots/screenshot.png)](https://youtu.be/aH7hHwGlxp8)
 
 ## 🛠 Technologies Used
 - JavaScript
