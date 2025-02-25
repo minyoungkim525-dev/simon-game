@@ -6,8 +6,8 @@ This is an interactive Simon game built with JavaScript, jQuery, HTML, and CSS.
 - Sound effects
 - Randomized sequence generation
 
-## 📷 Screenshots
 ## 🎥 Demo Video
+📌 **Click the screenshot below to watch the demo:**
 [![Watch the Demo](screenshots/screenshot.png)](https://youtu.be/aH7hHwGlxp8)
 
 ## 🛠 Technologies Used
